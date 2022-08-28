@@ -17,6 +17,6 @@ rsc --stream \
 --data='{"query":"subscription { greetings { greeting } }"}' \
 --debug tcp://localhost:9191
 
-# Reference
+## Reference
 
 https://www.youtube.com/watch?v=2paPPY9AmPw&list=PLgGXSWYM2FpNRPDQnAGfAHxMl3zUG2Run&index=6
