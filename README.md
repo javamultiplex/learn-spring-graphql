@@ -6,4 +6,4 @@
 4. GraphQL Mutation
 5. GraphQL Subscription
 6. GraphQL Client
-
+7. GraphQL Security
