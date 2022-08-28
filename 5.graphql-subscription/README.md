@@ -16,3 +16,7 @@ rsc --stream \
 --dataMimeType="application/graphql+json" \
 --data='{"query":"subscription { greetings { greeting } }"}' \
 --debug tcp://localhost:9191
+
+# Video
+
+https://www.youtube.com/watch?v=2paPPY9AmPw&list=PLgGXSWYM2FpNRPDQnAGfAHxMl3zUG2Run&index=6
